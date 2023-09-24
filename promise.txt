@@ -1,14 +1,13 @@
+1. Is there percent-profit sharing?: Yes
 
-Hourly wage more than $20: Yes
+2. If the job is part-time, are hours scheduled at least 1 week in advance? Yes
 
-Is some form of equity given: Yes
+3. If the work can be done remotely, is this permitted?: Yes
 
-If it can be done from home, is it done from home: Yes
+4. Are there at least 7 days off for national holidays? Yes
 
-National Holidays: 7
+5. Does the owner acknowledge that fear of losing one's job causes unused rest days? Yes
 
-Annual PTO: 25 days
-(Brits get 25-30)
+6. Are there at least 25 days off for mandatory rest? Yes
 
-Working days: 228
-(The USA average is 219. More than 228 is overworking.)
+Are these standards within the work partnership contract? Yes
