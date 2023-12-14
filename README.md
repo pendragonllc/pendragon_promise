@@ -1,16 +1,14 @@
 # pendragon_promise
-If a job listing follows the minimum of these standards, they can add Pendragon Promise to the page. People looking for a job that treats them well can search job sites for Pendragon Promise.
+People looking for a job with these standards can search job sites for the term "Pendragon Promise".
 
-1. Is there percent-profit sharing?: Yes
+1. There is percent-profit sharing.
 
-2. If the job is part-time, are hours scheduled at least 1 week in advance? Yes
+2. Schedules are known at least 1 week in advance.
 
-3. If the work can be done remotely, is this permitted?: Yes
+3. If a day's work can be completed remotely, remote work is permitted on those days.
 
-4. Are there at least 7 days off for national holidays? Yes
+4. There are at least 7 days off for national holidays.
 
-5. Does the owner acknowledge that fear of losing one's job causes unused rest days? Yes
+5. Days off are mandatory. This prevents a culture of being afraid to take days off.
 
-6. Are there at least 25 days off for mandatory rest? Yes
-
-Are these standards within the work partnership contract? Yes
+6. There at least 24 days off per year.
