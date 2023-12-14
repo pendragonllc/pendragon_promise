@@ -10,4 +10,4 @@ People looking for a job with these standards can search job sites for the term 
 
 5. Days off are mandatory. This prevents a culture of being afraid to take days off.
 
-6. There at least 24 days off per year.
+6. There at least 20 non-weekend, non-holiday days off per year.
