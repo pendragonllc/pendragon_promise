@@ -1,4 +1,3 @@
-# pendragon_promise
 People looking for a job with these standards can search job sites for the term "Pendragon Promise".
 
 1. There is percent-profit sharing.
